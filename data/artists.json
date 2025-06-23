@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Arijit Singh",
+    "category": ["singers"],
+    "bio": "Renowned playback singer known for his soulful voice in Bollywood. Winner of multiple Filmfare Awards with hits like 'Tum Hi Ho' and 'Channa Mereya'.",
+    "priceRange": "₹5,00,000-10,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "Bengali", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9
+  },
+  {
+    "id": "2",
+    "name": "Shreya Ghoshal",
+    "category": ["singers"],
+    "bio": "Legendary playback singer with over 1000 songs in multiple Indian languages. National Film Award winner known for her melodious voice.",
+    "priceRange": "₹4,00,000-8,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "Bengali", "Tamil", "Telugu", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9
+  },
+  {
+    "id": "3",
+    "name": "Neha Kakkar",
+    "category": ["singers"],
+    "bio": "Popular Bollywood playback singer and television personality. Known for hit songs like 'Kala Chashma' and 'Dilbar'.",
+    "priceRange": "₹3,00,000-6,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "Punjabi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.7
+  },
+  {
+    "id": "4",
+    "name": "Armaan Malik",
+    "category": ["singers"],
+    "bio": "Young and talented playback singer known for romantic ballads. Popular for songs like 'Bol Do Na Zara' and 'Main Hoon Hero Tera'.",
+    "priceRange": "₹2,50,000-5,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English", "Telugu"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "name": "Sunidhi Chauhan",
+    "category": ["singers"],
+    "bio": "Versatile playback singer with a powerful voice. Known for energetic songs and has won multiple awards including Filmfare Awards.",
+    "priceRange": "₹3,50,000-7,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English", "Punjabi"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8
+  },
+  {
+    "id": "6",
+    "name": "DJ Chetas",
+    "category": ["djs"],
+    "bio": "India's leading DJ and music producer. Known for Bollywood remixes and has performed at major festivals across India.",
+    "priceRange": "₹2,00,000-4,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.7
+  },
+  {
+    "id": "7",
+    "name": "Nucleya",
+    "category": ["djs"],
+    "bio": "Pioneer of Indian electronic music scene. Known for bass-heavy tracks and fusion of Indian classical with electronic music.",
+    "priceRange": "₹3,00,000-6,00,000",
+    "location": "New Delhi, Delhi",
+    "languages": ["Hindi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8
+  },
+  {
+    "id": "8",
+    "name": "Lost Stories",
+    "category": ["djs"],
+    "bio": "Electronic music duo known for progressive house and trance music. Regular performers at major Indian music festivals.",
+    "priceRange": "₹2,50,000-5,00,000",
+    "location": "Bangalore, Karnataka",
+    "languages": ["Hindi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.6
+  },
+  {
+    "id": "9",
+    "name": "DJ Shaan",
+    "category": ["djs"],
+    "bio": "Popular DJ known for Bollywood and commercial music. Regular at clubs and wedding celebrations across India.",
+    "priceRange": "₹1,50,000-3,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English", "Marathi"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.5
+  },
+  {
+    "id": "10",
+    "name": "Zaeden",
+    "category": ["djs"],
+    "bio": "Young electronic music producer and DJ. Known for melodic dubstep and future bass tracks with millions of streams.",
+    "priceRange": "₹2,00,000-4,00,000",
+    "location": "New Delhi, Delhi",
+    "languages": ["Hindi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.7
+  },
+  {
+    "id": "11",
+    "name": "Prabhu Deva",
+    "category": ["dancers"],
+    "bio": "Legendary choreographer and dancer known as the 'Michael Jackson of India'. Director and actor with decades of experience.",
+    "priceRange": "₹5,00,000-12,00,000",
+    "location": "Chennai, Tamil Nadu",
+    "languages": ["Tamil", "Hindi", "Telugu", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9
+  },
+  {
+    "id": "12",
+    "name": "Shakti Mohan",
+    "category": ["dancers"],
+    "bio": "Contemporary dancer and choreographer. Winner of Dance India Dance and judge on various dance reality shows.",
+    "priceRange": "₹2,00,000-4,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English", "Punjabi"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8
+  },
+  {
+    "id": "13",
+    "name": "Dharmesh Yelande",
+    "category": ["dancers"],
+    "bio": "Hip-hop dancer and choreographer. Known for his unique style and performances on Dance India Dance.",
+    "priceRange": "₹1,50,000-3,50,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English", "Marathi"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.7
+  },
+  {
+    "id": "14",
+    "name": "Bir Radha Sherpa",
+    "category": ["dancers"],
+    "bio": "Versatile dancer known for various dance forms including contemporary, hip-hop, and Bollywood choreography.",
+    "priceRange": "₹1,00,000-2,50,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English", "Nepali"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.6
+  },
+  {
+    "id": "15",
+    "name": "Raghav Juyal",
+    "category": ["dancers"],
+    "bio": "Dancer, choreographer, and television host known for his slow-motion dance style. Popular as 'King of Slow Motion'.",
+    "priceRange": "₹2,50,000-5,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.7
+  },
+  {
+    "id": "16",
+    "name": "Sadhguru",
+    "category": ["speakers"],
+    "bio": "Renowned spiritual leader, author, and founder of Isha Foundation. International speaker on spirituality and well-being.",
+    "priceRange": "₹10,00,000-25,00,000",
+    "location": "Coimbatore, Tamil Nadu",
+    "languages": ["English", "Hindi", "Tamil"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9
+  },
+  {
+    "id": "17",
+    "name": "Gaur Gopal Das",
+    "category": ["speakers"],
+    "bio": "Motivational speaker and lifestyle coach. Former engineer turned monk, known for practical wisdom and life lessons.",
+    "priceRange": "₹3,00,000-8,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["English", "Hindi"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8
+  },
+  {
+    "id": "18",
+    "name": "Dr. Vivek Bindra",
+    "category": ["speakers"],
+    "bio": "Business coach and motivational speaker. CEO coach and author known for leadership and entrepreneurship training.",
+    "priceRange": "₹2,50,000-6,00,000",
+    "location": "New Delhi, Delhi",
+    "languages": ["Hindi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.7
+  },
+  {
+    "id": "19",
+    "name": "Sandeep Maheshwari",
+    "category": ["speakers"],
+    "bio": "Entrepreneur and motivational speaker. Founder of ImagesBazaar and known for free motivational sessions.",
+    "priceRange": "₹1,50,000-4,00,000",
+    "location": "New Delhi, Delhi",
+    "languages": ["Hindi", "English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8
+  },
+  {
+    "id": "20",
+    "name": "Priya Kumar",
+    "category": ["speakers"],
+    "bio": "International motivational speaker and author. Known for leadership training and personal development programs.",
+    "priceRange": "₹2,00,000-5,00,000",
+    "location": "Mumbai, Maharashtra",
+    "languages": ["English", "Hindi"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.6
+  }
+]
